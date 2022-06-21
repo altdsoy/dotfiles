@@ -3,7 +3,7 @@
 ## Fedora installation
 
 ```console
-sudo dnf install i3 picom alacritty sxhkd network-manager-applet
+sudo dnf install i3 picom alacritty sxhkd network-manager-applet stow
 ```
 
 ```console
